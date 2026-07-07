@@ -1,11 +1,13 @@
 # YouTube Channel Name Generator
 
-This is my second Python project.
+My first Python project.
+
+This program asks the user for their nickname and channel topic, then generates a simple YouTube channel name suggestion.
 
 ## Features
-- Takes the user's nickname.
-- Takes the channel topic.
-- Generates a simple YouTube channel name suggestion.
+- User input
+- String concatenation
+- Console output
 
 ## Built With
 - Python
