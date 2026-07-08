@@ -2,10 +2,11 @@
 
 My first Python project.
 
-This program asks the user for their nickname and channel topic, then generates a simple YouTube channel name suggestion.
+This program asks the user for their nickname and channel topic, then generates multiple YouTube channel name ideas.
 
 ## Features
 - User input
+- Multiple channel name suggestions
 - String concatenation
 - Console output
 
